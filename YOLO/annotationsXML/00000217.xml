@@ -1,0 +1,1 @@
+<annotations><filename>00000217.JPEG</filename><folder>images</folder><size><width>4945</width><height>3600</height><depth>3</depth></size><object><name>christmas tree</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>19.000000000000114</xmin><ymin>12.0</ymin><xmax>1649.0</xmax><ymax>920.0</ymax></bndbox></object></annotations>
